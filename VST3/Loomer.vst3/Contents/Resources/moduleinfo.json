@@ -1,0 +1,48 @@
+{
+  "Name": "Loomer",
+  "Version": "0.1.0",
+  "Factory Info": {
+    "Vendor": "Erosi",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB45726F734C6F6F6D",
+      "Category": "Audio Module Class",
+      "Name": "Loomer",
+      "Vendor": "Erosi",
+      "Version": "0.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Fx",
+        "Fuzz",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD45726F734C6F6F6D",
+      "Category": "Component Controller Class",
+      "Name": "Loomer",
+      "Vendor": "Erosi",
+      "Version": "0.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Fx",
+        "Fuzz",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
