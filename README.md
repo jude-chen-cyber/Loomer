@@ -1,3 +1,4 @@
+<img width="1823" height="1562" alt="Loomer" src="https://github.com/user-attachments/assets/9327bd80-3d70-4a3c-8537-e785c90af919" />
 # Loomer
 
 Keeley Loomer 单块效果器的 VST3 / Standalone 软件复刻。一块把 **op-amp fuzz** 和 **FV-1 数字混响**装进同一盒子的双引擎效果器，单声道。fuzz 与混响各有独立脚踏开关，可单独或组合使用。
